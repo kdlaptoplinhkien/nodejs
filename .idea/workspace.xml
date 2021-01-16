@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77de3d2a-c9b6-4945-b6f5-c08a631a36e6" name="Default Changelist" comment="commit3">
-      <change afterPath="$PROJECT_DIR$/procfile" afterDir="false" />
+    <list default="true" id="77de3d2a-c9b6-4945-b6f5-c08a631a36e6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/procfile" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1610796934534</updated>
       <workItem from="1610796936196" duration="4729000" />
-      <workItem from="1610804905427" duration="632000" />
+      <workItem from="1610804905427" duration="1091000" />
     </task>
     <task id="LOCAL-00001" summary="commit1">
       <created>1610805045831</created>
@@ -73,7 +75,21 @@
       <option name="project" value="LOCAL" />
       <updated>1610805290709</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit3">
+      <created>1610805550170</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1610805550170</updated>
+    </task>
+    <task id="LOCAL-00004" summary="commit4">
+      <created>1610805633191</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1610805633191</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,17 +98,27 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit1" />
     <MESSAGE value="commit2" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit2" />
+    <MESSAGE value="commit3" />
+    <MESSAGE value="commit4" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit4" />
   </component>
   <component name="WindowStateProjectService">
     <state x="254" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610805252196">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="254" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1610805252196" />
-    <state x="425" y="0" key="CommitChangelistDialog2" timestamp="1610805044101">
+    <state x="565" y="231" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1610805994228">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="425" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1610805044101" />
+    <state x="565" y="231" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.860@0.0.1600.860" timestamp="1610805994228" />
+    <state x="425" y="0" key="CommitChangelistDialog2" timestamp="1610805632133">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="425" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1610805632133" />
+    <state x="392" y="162" key="Vcs.Push.Dialog.v2" timestamp="1610805638550">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="162" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1610805638550" />
     <state x="617" y="343" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610805276091">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
