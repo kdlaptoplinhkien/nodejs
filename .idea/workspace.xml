@@ -2,90 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77de3d2a-c9b6-4945-b6f5-c08a631a36e6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Libs/Bootstrap3.4.1/css/bootstrap-theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libs/Bootstrap3.4.1/css/bootstrap-theme.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libs/Bootstrap3.4.1/css/bootstrap-theme.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libs/Bootstrap3.4.1/css/bootstrap-theme.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libs/Bootstrap3.4.1/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libs/Bootstrap3.4.1/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libs/Bootstrap3.4.1/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libs/Bootstrap3.4.1/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libs/Bootstrap3.4.1/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libs/Bootstrap3.4.1/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libs/Bootstrap3.4.1/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libs/Bootstrap3.4.1/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libs/Bootstrap3.4.1/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libs/Bootstrap3.4.1/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libs/Bootstrap3.4.1/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libs/Bootstrap3.4.1/js/npm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libs/fontawesome.5.15.1/css/all.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libs/fontawesome.5.15.1/css/all.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libs/fontawesome.5.15.1/css/brands.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libs/fontawesome.5.15.1/css/brands.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libs/fontawesome.5.15.1/css/fontawesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libs/fontawesome.5.15.1/css/fontawesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libs/fontawesome.5.15.1/css/regular.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libs/fontawesome.5.15.1/css/regular.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libs/fontawesome.5.15.1/css/solid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libs/fontawesome.5.15.1/css/solid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libs/fontawesome.5.15.1/css/svg-with-js.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libs/fontawesome.5.15.1/css/svg-with-js.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libs/fontawesome.5.15.1/css/v4-shims.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libs/fontawesome.5.15.1/css/v4-shims.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libs/fontawesome.5.15.1/webfonts/fa-brands-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libs/fontawesome.5.15.1/webfonts/fa-brands-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libs/fontawesome.5.15.1/webfonts/fa-brands-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libs/fontawesome.5.15.1/webfonts/fa-brands-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libs/fontawesome.5.15.1/webfonts/fa-brands-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libs/fontawesome.5.15.1/webfonts/fa-regular-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libs/fontawesome.5.15.1/webfonts/fa-regular-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libs/fontawesome.5.15.1/webfonts/fa-regular-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libs/fontawesome.5.15.1/webfonts/fa-regular-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libs/fontawesome.5.15.1/webfonts/fa-regular-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libs/fontawesome.5.15.1/webfonts/fa-solid-900.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libs/fontawesome.5.15.1/webfonts/fa-solid-900.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libs/fontawesome.5.15.1/webfonts/fa-solid-900.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libs/fontawesome.5.15.1/webfonts/fa-solid-900.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libs/fontawesome.5.15.1/webfonts/fa-solid-900.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libs/jquery/jquery-3.5.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libs/nivoslider/jquery.nivo.slider.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libs/nivoslider/nivo-slider.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libs/nivoslider/themes/bar/arrows.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libs/nivoslider/themes/bar/bar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libs/nivoslider/themes/bar/bullets.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libs/nivoslider/themes/bar/loading.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libs/nivoslider/themes/dark/arrows.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libs/nivoslider/themes/dark/bullets.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libs/nivoslider/themes/dark/dark.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libs/nivoslider/themes/dark/loading.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libs/nivoslider/themes/default/arrows.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libs/nivoslider/themes/default/bullets.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libs/nivoslider/themes/default/default.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libs/nivoslider/themes/default/loading.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libs/nivoslider/themes/light/arrows.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libs/nivoslider/themes/light/bullets.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libs/nivoslider/themes/light/light.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libs/nivoslider/themes/light/loading.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libs/owl.carousel/assets/ajax-loader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libs/owl.carousel/assets/owl.carousel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libs/owl.carousel/assets/owl.carousel.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libs/owl.carousel/assets/owl.theme.default.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libs/owl.carousel/assets/owl.theme.default.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libs/owl.carousel/assets/owl.theme.green.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libs/owl.carousel/assets/owl.theme.green.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libs/owl.carousel/assets/owl.video.play.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libs/owl.carousel/owl.carousel.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Projects.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/Projects.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/demo.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/footer.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/header.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/stylesheet.ejs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/Baitapnhomlazies.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/baitapnhomlaziest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/Baitapnhomlazies.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,7 +66,7 @@
       <workItem from="1610796936196" duration="4729000" />
       <workItem from="1610804905427" duration="1832000" />
       <workItem from="1611633547737" duration="2480000" />
-      <workItem from="1611718412778" duration="2905000" />
+      <workItem from="1611718412778" duration="4371000" />
     </task>
     <task id="LOCAL-00001" summary="commit1">
       <created>1610805045831</created>
@@ -193,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610806041835</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="commit4">
+      <created>1611721603902</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1611721603902</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -219,18 +143,18 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="530" y="176" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860@0.0.1600.860" timestamp="1611633827400" />
-    <state x="425" y="0" key="CommitChangelistDialog2" timestamp="1610806040851">
+    <state x="425" y="0" key="CommitChangelistDialog2" timestamp="1611721601967">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="425" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1610806040851" />
+    <state x="425" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1611721601967" />
     <state x="580" y="184" key="FileChooserDialogImpl" timestamp="1611634015304">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="580" y="184" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1611634015304" />
-    <state x="392" y="162" key="Vcs.Push.Dialog.v2" timestamp="1610806045060">
+    <state x="392" y="162" key="Vcs.Push.Dialog.v2" timestamp="1611721610256">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="392" y="162" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1610806045060" />
+    <state x="392" y="162" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1611721610256" />
     <state x="617" y="343" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610805276091">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
