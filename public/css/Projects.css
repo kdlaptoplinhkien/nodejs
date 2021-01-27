@@ -4,6 +4,11 @@
     box-sizing: border-box;
 
 }
+body{
+    width: 100%;
+    font-family: 'Roboto', sans-serif;
+
+}
 
 .header {
     background: yellow;
@@ -20,13 +25,21 @@
 .container .zplus {
     background: red;
     font-size: 16px;
-    float: left;
+
 }
-.container .zplus .ul{
+.container .zplus ul{
     margin: 0px;
     padding: 0px;
+    list-style: none;
+
 }
-.container .zplus .ul .li{
+.container .zplus ul li{
+
     list-style: none;
     float: left;
+    padding: 20px;
+
 }
+
+
+
