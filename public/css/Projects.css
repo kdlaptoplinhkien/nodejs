@@ -1,0 +1,32 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+
+.header {
+    background: yellow;
+    font-family: sans-serif;
+    height: 80px;
+    line-height: 80px;
+}
+.header .tel{
+    font-size: 15px;
+    float: left;
+
+}
+
+.container .zplus {
+    background: red;
+    font-size: 16px;
+    float: left;
+}
+.container .zplus .ul{
+    margin: 0px;
+    padding: 0px;
+}
+.container .zplus .ul .li{
+    list-style: none;
+    float: left;
+}
