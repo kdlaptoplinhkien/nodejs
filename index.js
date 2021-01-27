@@ -7,7 +7,7 @@ app.listen(port,function () {  // hoàn thành xây nhà
 app.use(express.static('public')); // các file css,img... phải đặt trong thư mục public
 //tạo routing ( thuê 1 nhân viên)
 app.get("/",function (req,res){
-    res.sendFile(__dirname+'/public/projects.html');
+    res.sendFile(__dirname+'/public/Projects.html');
 })
 // thêm 01 nhân viên nữa
 app.get('/bongda',function (req,res) {
