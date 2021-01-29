@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77de3d2a-c9b6-4945-b6f5-c08a631a36e6" name="Default Changelist" comment="" />
+    <list default="true" id="77de3d2a-c9b6-4945-b6f5-c08a631a36e6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/women_dresses.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -65,7 +68,9 @@
       <workItem from="1610804905427" duration="1832000" />
       <workItem from="1611633547737" duration="2480000" />
       <workItem from="1611718412778" duration="13204000" />
-      <workItem from="1611926610795" duration="318000" />
+      <workItem from="1611926610795" duration="1516000" />
+      <workItem from="1611928384020" duration="1801000" />
+      <workItem from="1611930345770" duration="1529000" />
     </task>
     <task id="LOCAL-00001" summary="commit1">
       <created>1610805045831</created>
@@ -175,11 +180,11 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="425" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1611738195393" />
-    <state x="696" y="223" key="FileChooserDialogImpl" timestamp="1611926927258">
+    <state x="696" y="223" key="FileChooserDialogImpl" timestamp="1611927077858">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="580" y="184" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1611634015304" />
-    <state x="696" y="223" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1611926927258" />
+    <state x="696" y="223" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1611927077858" />
     <state x="392" y="162" key="Vcs.Push.Dialog.v2" timestamp="1611738199521">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
