@@ -60,6 +60,7 @@ a button{
     font-size: 14px;
     color: #fff;
     background-color: #464646;
+    text-transform: uppercase;
     margin-top: 30px;
 }
 .banner-sec{
@@ -69,7 +70,7 @@ a button{
     background-size: cover;
     background-repeat: no-repeat;
     background-image:url("../Img/banner1.jpg");
-    margin-top: 30px;
+    margin-top: 74px;
 }
 .banner-text{
     position: relative;
@@ -82,4 +83,43 @@ a button{
 }
 .banner-sec .banner-text h3{
     font-size: 35px;
+}
+.shop-index{
+    position: relative;
+    float: left;
+    width: 100%;
+    margin-top: 69px;
+}
+.product-sale figcaption {
+    position: absolute;
+    float: left;
+    width: 100%;
+    text-align: center;
+    color: #464646;
+    top: 7%;
+}
+.product-timer figcaption{
+    position: absolute;
+    border: 1px solid white;
+    width: 250px;
+    height: 132px;
+    float: left;
+    text-align: center;
+    line-height: 8px;
+    color: #464646;
+    top: 69%;
+    margin-left: 38px;
+    background-color: white;
+    opacity: 0.8;
+}
+.product-timer figcaption .row{
+    margin-top: 40px;
+}
+.product-lookbook figcaption {
+    position: absolute;
+    float: left;
+    width: 100%;
+    color: #464646;
+    top: 70%;
+    margin-left: 37px;
 }

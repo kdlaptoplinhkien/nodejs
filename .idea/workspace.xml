@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77de3d2a-c9b6-4945-b6f5-c08a631a36e6" name="Default Changelist" comment="post1">
-      <change afterPath="$PROJECT_DIR$/public/css/women.css" afterDir="false" />
+    <list default="true" id="77de3d2a-c9b6-4945-b6f5-c08a631a36e6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/women.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/women.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/women_dresses.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/women_dresses.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,7 +94,8 @@
       <workItem from="1612015171043" duration="263000" />
       <workItem from="1612015573662" duration="1314000" />
       <workItem from="1612096399419" duration="8007000" />
-      <workItem from="1612142502876" duration="14071000" />
+      <workItem from="1612142502876" duration="14933000" />
+      <workItem from="1612194844915" duration="5182000" />
     </task>
     <task id="LOCAL-00001" summary="commit1">
       <created>1610805045831</created>
@@ -180,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611932020744</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="post1">
+      <created>1612157028791</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1612157028791</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
