@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77de3d2a-c9b6-4945-b6f5-c08a631a36e6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/women_dresses.html" afterDir="false" />
+    <list default="true" id="77de3d2a-c9b6-4945-b6f5-c08a631a36e6" name="Default Changelist" comment="post1">
+      <change afterPath="$PROJECT_DIR$/public/css/women.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/women_dresses.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/women_dresses.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +21,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1n9Kax5gnFYer71QlcZ6Ovw4GBA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -46,15 +55,25 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\nodejs\public" />
-      <recent name="D:\nodejs\public\css" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\nodejs" />
       <recent name="D:\nodejs\public" />
       <recent name="D:\nodejs\public\css" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\nodejs\public" />
+      <recent name="D:\nodejs\public\css" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="women_dresses.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/nodejs/public/women_dresses.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.women_dresses.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -70,7 +89,12 @@
       <workItem from="1611718412778" duration="13204000" />
       <workItem from="1611926610795" duration="1516000" />
       <workItem from="1611928384020" duration="1801000" />
-      <workItem from="1611930345770" duration="1529000" />
+      <workItem from="1611930345770" duration="2701000" />
+      <workItem from="1612015089191" duration="28000" />
+      <workItem from="1612015171043" duration="263000" />
+      <workItem from="1612015573662" duration="1314000" />
+      <workItem from="1612096399419" duration="8007000" />
+      <workItem from="1612142502876" duration="14071000" />
     </task>
     <task id="LOCAL-00001" summary="commit1">
       <created>1610805045831</created>
@@ -149,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611738196179</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="post1">
+      <created>1611932020743</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1611932020744</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,36 +193,5 @@
     <MESSAGE value="commit1" />
     <MESSAGE value="post1" />
     <option name="LAST_COMMIT_MESSAGE" value="post1" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="254" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610805252196">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="254" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1610805252196" />
-    <state x="565" y="231" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1610805994228">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="565" y="231" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.860@0.0.1600.860" timestamp="1610805994228" />
-    <state x="530" y="176" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1611633827400">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="530" y="176" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860@0.0.1600.860" timestamp="1611633827400" />
-    <state x="425" y="0" key="CommitChangelistDialog2" timestamp="1611738195393">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="425" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1611738195393" />
-    <state x="696" y="223" key="FileChooserDialogImpl" timestamp="1611927077858">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="580" y="184" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1611634015304" />
-    <state x="696" y="223" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1611927077858" />
-    <state x="392" y="162" key="Vcs.Push.Dialog.v2" timestamp="1611738199521">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="392" y="162" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1611738199521" />
-    <state x="617" y="343" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1611727576112">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="617" y="343" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860@0.0.1600.860" timestamp="1611727576112" />
   </component>
 </project>
